@@ -28,7 +28,9 @@
 
 <!--<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
 
-<img align="right" width="300px" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<div align="center">
+  <img align="right" width="300px" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+</div>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Pentesting-dodgerblue" />
