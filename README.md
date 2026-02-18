@@ -56,7 +56,7 @@ hobbies_list=(
   * Networking fundamentals
   * Web development
   * C & C++
-* 😄 Pronouns: He/His
+* 😄 Pronouns: He/Him
 * 👯 I’m looking to collaborate in open source projects
 
 <br>
